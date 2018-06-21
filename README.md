@@ -2,6 +2,8 @@
 First TechDegree Project
 Programmed by: Daniel Rubinov
 
+I hope to get Exceeding Expectations.
+
 Project Instructions:
 Create an array of JavaScript objects to hold the data for your quotes.
 Name the array quotes.
